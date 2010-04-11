@@ -63,7 +63,7 @@ minitage.paste
 "
 
 
-svn propset  svn:ignore "$ignore" .
+svn propset  -R svn:ignore "$ignore" .
 svn ci -m "resetting svnignore" 
 
 
