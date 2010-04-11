@@ -26,14 +26,17 @@ recipe to manage your project, you can do this:
  * Add ``collective.generic.devmode`` to the list of eggs to install, e.g.::
 
     [buildout]
+    parts=
+        ...
+        cg.devmode
     ...
-    [zopepy]
-    eggs =
-        ${buildout:eggs}
+    [cg.devmode]
+    recipe=minitage.recipe.scripts
+    eggs=${instance:eggs}
         collective.generic.devmode
-    scripts = cg.devmode
-
-
+    scripts=cg.devmode
+    extra-paths = ${instance:extra-paths} 
+    # in an oldschool zope2 install, zope2home/lib/python must be in extra-paths!
 
  * Re-run buildout, e.g. with::
 
