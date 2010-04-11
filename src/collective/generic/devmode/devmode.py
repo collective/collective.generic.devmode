@@ -6,7 +6,6 @@ import logging
 import common
 import commands
 
-version = "1.0"
 
 DEFAULT_USER = 'admin'
 usage = """
@@ -24,7 +23,7 @@ def get_default_zope_conf():
                 return candidate
 
 def main():
-    parser = optparse.OptionParser(version=version, usage=usage)
+    parser = optparse.OptionParser(usage=usage)
 
     actions = [
         optparse.make_option('-a', '--change-admin-password',

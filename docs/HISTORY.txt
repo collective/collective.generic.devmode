@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0 - Unreleased
+1.0 - 2010-04-12
 ----------------
 
 * Initial release [kiorky]

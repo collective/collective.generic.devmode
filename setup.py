@@ -2,7 +2,6 @@ import os, sys
 
 from setuptools import setup, find_packages
 
-version = '1.0'
 
 def read(*rnames):
     return open(
@@ -21,11 +20,12 @@ classifiers = [
     "Topic :: Software Development",]
 
 name = 'collective.generic.devmode'
+version = '1.0'
 setup(
     name=name,
     namespace_packages=['collective',                'collective.generic', 'collective.generic.devmode',],
     version=version,
-    description='Project collective.generic.devmode',
+    description='Sanitize a plone site for development use.',
     long_description=long_description,
     classifiers=classifiers,
     keywords='',
