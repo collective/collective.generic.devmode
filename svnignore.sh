@@ -64,8 +64,6 @@ minitage.paste
 
 
 svn propset  svn:ignore "$ignore" .
-svn propset  svn:ignore "$src" src
-svn propset  svn:ignore "$others" src.others
 svn ci -m "resetting svnignore" 
 
 
