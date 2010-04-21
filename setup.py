@@ -25,7 +25,7 @@ setup(
     name=name,
     namespace_packages=['collective',                'collective.generic', 'collective.generic.devmode',],
     version=version,
-    description='Sanitize a plone site for development use.',
+    description='Sanitize a plone site for development use sponsorised by Makina Corpus.',
     long_description=long_description,
     classifiers=classifiers,
     keywords='',

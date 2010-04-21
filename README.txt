@@ -13,6 +13,19 @@ Another use is for running scripts without any security (we just give us all rig
 - Svn : http://svn.plone.org/svn/collective/collective.generic.devmode/trunk/
 - Developement supported by : `Makina Corpus <http://www.makina-corpus.com>`_ 
 
+======================================
+Makina Corpus sponsorised software
+======================================
+|makinacom|_
+
+* `Planet Makina Corpus <http://www.makina-corpus.org>`_
+* `Contact us <mailto:python@makina-corpus.org>`_
+
+.. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
+.. _makinacom:  http://www.makina-corpus.com
+
+
+
 
 Actions & usage
 ==================
