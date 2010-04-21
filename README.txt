@@ -13,7 +13,7 @@ Another use is for running scripts without any security (we just give us all rig
 - Svn : http://svn.plone.org/svn/collective/collective.generic.devmode/trunk/
 - Developement supported by : `Makina Corpus <http://www.makina-corpus.com>`_ 
 
-Makina Corpus sponsorised software
+Credits
 ======================================
 |makinacom|_
 
