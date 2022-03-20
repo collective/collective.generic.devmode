@@ -10,18 +10,18 @@ Another use is for running scripts without any security (we just give us all rig
 
 .. contents::
 
-- Svn : http://svn.plone.org/svn/collective/collective.generic.devmode/trunk/
-- Developement supported by : `Makina Corpus <http://www.makina-corpus.com>`_ 
+- Svn : https://svn.plone.org/svn/collective/collective.generic.devmode/trunk/
+- Developement supported by : `Makina Corpus <https://www.makina-corpus.com>`_
 
 Credits
 ======================================
 |makinacom|_
 
-* `Planet Makina Corpus <http://www.makina-corpus.org>`_
+* `Planet Makina Corpus <https://www.makina-corpus.org>`_
 * `Contact us <mailto:python@makina-corpus.org>`_
 
-.. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
-.. _makinacom:  http://www.makina-corpus.com
+.. |makinacom| image:: https://depot.makina-corpus.org/public/logo.gif
+.. _makinacom:  https://www.makina-corpus.com
 
 
 
