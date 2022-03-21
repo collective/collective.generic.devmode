@@ -17,7 +17,7 @@ using a traditional Zope 2 instance, you can do this:
 
    into your Zope instance.
 
-.. _pythonproducts: http://plone.org/products/pythonproducts
+.. _pythonproducts: https://plone.org/products/pythonproducts
 
 
 Alternatively, if you are using zc.buildout and the plone.recipe.zope2instance
